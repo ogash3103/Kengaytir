@@ -1,0 +1,14 @@
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\Kengaytir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\Kengaytir.AssemblyInfoInputs.cache
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\Kengaytir.AssemblyInfo.cs
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\Kengaytir.csproj.CoreCompileInputs.cache
+C:\Users\faxog\Desktop\C#\Kengaytir\bin\Debug\net9.0\Kengaytir.exe
+C:\Users\faxog\Desktop\C#\Kengaytir\bin\Debug\net9.0\Kengaytir.deps.json
+C:\Users\faxog\Desktop\C#\Kengaytir\bin\Debug\net9.0\Kengaytir.runtimeconfig.json
+C:\Users\faxog\Desktop\C#\Kengaytir\bin\Debug\net9.0\Kengaytir.dll
+C:\Users\faxog\Desktop\C#\Kengaytir\bin\Debug\net9.0\Kengaytir.pdb
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\Kengaytir.dll
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\refint\Kengaytir.dll
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\Kengaytir.pdb
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\Kengaytir.genruntimeconfig.cache
+C:\Users\faxog\Desktop\C#\Kengaytir\obj\Debug\net9.0\ref\Kengaytir.dll
